@@ -13,6 +13,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saviozx3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Estat%C3%ADsticas%20" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SavioZx3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens%20mais%20utilizadas" height="170" alt="languages graph"  />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SavioZx3/SavioZx3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SavioZx3/SavioZx3/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SavioZx3/SavioZx3/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 
@@ -44,11 +49,7 @@
 </div>
 
 <div>
-   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SavioZx3/SavioZx3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SavioZx3/SavioZx3/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SavioZx3/SavioZx3/output/github-contribution-grid-snake.svg">
-  </picture>
+   
 </div>
 
  
